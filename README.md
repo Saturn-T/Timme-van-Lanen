@@ -1,16 +1,16 @@
 # Timme-van-Lanen
 
-## 🎓 About Me
+## About Me
 - **Fresh Graduate:** I recently completed my VWO (pre-university education) diploma in the Netherlands.
 - **Future Student:** Starting this upcoming academic year, I will be studying **Brain Science** at Maastricht University.
 - **Coding Interest:** I love programming because it allows me to solve complex problems and build useful tools.
 
-## 💻 Tech Stack
-- **Primary Language:** Python 🐍 (Focusing on data analysis and computational neuroscience)
-- **Other Languages:** Java ☕ | C# 🚀
+## Tech Stack
+- **Primary Language:** Python (Focusing on data analysis and computational neuroscience)
+- **Other Languages:** Java | C#
 
-## 🧠 Brain Science & Coding
+## Brain Science & Coding
 I am combining my passion for programming with my studies. I am currently focusing on mastering Python libraries like `NumPy`, `Pandas`, and `Matplotlib` to analyze neurological data and build behavioral experiments.
 
-## 📫 Connect with me
+## Connect with me
 - Feel free to explore my repositories or reach out if you want to collaborate on cool Python or neuroscience projects!
