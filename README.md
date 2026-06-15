@@ -7,7 +7,7 @@
 
 ## 💻 Tech Stack
 - **Primary Language:** Python 🐍 (Focusing on data analysis and computational neuroscience)
-- **Other Languages:** Java ☕ | C++ 🚀
+- **Other Languages:** Java ☕ | C# 🚀
 
 ## 🧠 Brain Science & Coding
 I am combining my passion for programming with my studies. I am currently focusing on mastering Python libraries like `NumPy`, `Pandas`, and `Matplotlib` to analyze neurological data and build behavioral experiments.
