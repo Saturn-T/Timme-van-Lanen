@@ -3,7 +3,7 @@
 ## About Me
 - **Fresh Graduate:** I recently completed my VWO (pre-university education) diploma in the Netherlands.
 - **Future Student:** Starting this upcoming academic year, I will be studying **Brain Science** at Maastricht University.
-- **Coding Interest:** I have been programming since I was a little kid because. First small games, now I am more in AI or problem projects.
+- **Coding Interest:** I have been programming since I was a little kid. Started with small games, now I am more into AI or problem projects.
 
 ## Tech Stack
 - **Primary Language:** Python (Focusing on data analysis and computational neuroscience)
