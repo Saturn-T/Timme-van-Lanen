@@ -1,4 +1,4 @@
-# Timme-van-Lanen
+# Timme van Lanen
 
 ## About Me
 - **Fresh Graduate:** I recently completed my VWO (pre-university education) diploma in the Netherlands.
